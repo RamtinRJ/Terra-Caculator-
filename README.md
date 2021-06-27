@@ -1,4 +1,4 @@
-# Terra-Caculator
+# Terra-Calculator
 Discription
 
 The Terra-Caculator is a way for companies at any size to get information on their carbon footprint at different periods of time from a week to a year.

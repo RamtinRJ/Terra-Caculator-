@@ -7,9 +7,14 @@ result with different country locations. It is easy to use rquiring no tech skil
 all the data needs. The caculator's formulas are all based on trust worthy and reconized sites that collect data on carbon emmesions and all the data the software
 requires is public preventing any of the companies private information to be leaked or misused. 
 
+How to use it
+
+In order to use it properly you will need to download both Country.py and caculator.py because all the caculations happen through the countries class in COuntry.py.
+
 Challenges
 
 During the creation of the calculator I had to vist many different websites in order to get the information I needed to provide formulas for the software to caculate
 the carbon foot print of a company. A better way of going about this was to utilize Beautifulsoup module in python to create a webscraper in order to get more information
 on different countries carbon dioxide emmesions, formulas to caculate how much kg of CO2 is produced per KWH from different sources like electricty or gas. My second
-bigest challenge is keeping the users 
+bigest challenge is keeping the users inputs stored in way to use again when the user pressed the submit all button and to make sure that the software choose the 
+correct set of formulas based on the country the user choose. 
